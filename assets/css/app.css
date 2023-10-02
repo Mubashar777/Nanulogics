@@ -106,7 +106,7 @@ section {
     top: 0;
     left: 0;
     width: 100%;
-    height: var(--n-height);
+    height: 60px;
     display: flex;
     z-index: 999;
 }
@@ -402,7 +402,7 @@ form {
 }
 
 .form-group {
-    margin-bottom: 24px;
+    margin-bottom: 24px; 
 }
 
 .form-group .form-input {
