@@ -30,8 +30,8 @@ navLinksLi.forEach(li => li.addEventListener('click', ()=> {
 // Typed js
 var options = {
     strings: [
-        'Creative Agency', 
-        'Typed JS Is Cool'
+        'Welcome To Nanu Logics', 
+        'Lets Build a Something'
     ],
     typeSpeed: 40,
     loop: true,
